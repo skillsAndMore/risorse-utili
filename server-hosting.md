@@ -13,7 +13,8 @@ In quest’ultima sezione ho raccolto due suggerimenti che **provengono dalla mi
 
 Se non fossi fiducioso nel presentarti questi servizi non lo avrei fatto, ma ti confesso che per quanto riguarda assistenza, prestazioni e semplicità di utilizzo entrambi raggiungono ottimi risultati. Ovviamente si ottiene per quanto si paga.
 ### SiteGround 
-Favorito{: .label .label-green }
+Favorito
+{: .label .label-green }
 ![SiteGround](images/siteground.jpg)
 
 Sono sicuro che in questi ultimi anni hai sentito molto spesso parlare di SiteGround, molti articoli che avrai letto sono sicuramente stati pubblicati nel tentativo di vendere qualche affiliazione in più e nonostante che anche il mio sia un link di affiliazione, io ti parlo dalla mia esperienza personale!
