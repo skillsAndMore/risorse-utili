@@ -1,3 +1,9 @@
+---
+title: Editor di codice
+has_children: false
+nav_order: 2
+---
+
 # Editor di codice
 Gli editor di codice sono i migliori amici degli sviluppatori, qua trovi due tra i nostri preferiti ma se pensi che ci siamo dimenticati qualcuno non esitare a farcelo scoprire [inviandoci una mail](https://skillsandmore.org/contatti).
 
