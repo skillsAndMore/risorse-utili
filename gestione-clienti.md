@@ -1,6 +1,6 @@
 ---
 title: Gestione clienti
-has_children: false
+parent: Risorse utili
 nav_order: 6
 ---
 

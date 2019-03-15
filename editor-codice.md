@@ -1,6 +1,6 @@
 ---
 title: Editor di codice
-has_children: false
+parent: Risorse utili
 nav_order: 2
 ---
 

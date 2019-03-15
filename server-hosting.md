@@ -1,6 +1,6 @@
 ---
 title: Server & Hosting
-has_children: false
+parent: Risorse utili
 nav_order: 5
 ---
 

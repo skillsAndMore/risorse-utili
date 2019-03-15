@@ -1,6 +1,6 @@
 ---
 title: Programmi di grafica
-has_children: false
+parent: Risorse utili
 nav_order: 3
 ---
 

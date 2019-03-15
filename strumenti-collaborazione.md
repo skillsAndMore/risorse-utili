@@ -1,6 +1,6 @@
 ---
 title: Strumenti di collaborazione
-has_children: false
+parent: Risorse utili
 nav_order: 4
 ---
 
