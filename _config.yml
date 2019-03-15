@@ -2,5 +2,5 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
 aux_links:
-    "![Logo SAM](images/logo-sam.png)":
+    "Vieni a trovarci su SkillsAndMore":
       - "//skillsandmore.org"
