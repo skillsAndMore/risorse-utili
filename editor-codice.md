@@ -10,7 +10,7 @@ Grazie alla communità che si è sviluppata intorno a questo programma open sour
 
 Per questo motivo abbiamo [creato un intero corso](https://skillsandmore.org/corso/padroneggia-il-potere-di-atom/) dedicato a questo programma che ti insegnerà come velocizzare al massimo il tuo lavoro e salvare molto tempo da poter spendere come preferisci!
 
-[Scarica Atom](http://atom.io/) :arrow_right:
+[Scarica Atom](http://atom.io/){: .btn .btn-green }
 
 ## PhpStorm
 ![PhpStorm IDE](images/phpstorm.jpg)
@@ -23,7 +23,7 @@ Oltre a questo c’è anche da dire che offre molti strumenti che amiamo per il 
 
 Dimenticavo di dirti, se stai portando avanti un progetto open source, PhpStorm rilascia licenze gratuite per te e i componenti del tuo team :wink:
 
-[Acquista PhpStorm](https://www.jetbrains.com/phpstorm/) :arrow_right:
+[Acquista PhpStorm](https://www.jetbrains.com/phpstorm/){: .btn .btn-green }
 
 ## Visual Studio Code
 ![Visual Studio Code](images/vscode.jpg)
@@ -44,4 +44,4 @@ Oltre a questo viene aggiornato costantemente a ritmi incredibili, ogni loro **r
 
 Insomma che dire se non **inizia a testarlo il prima possibile** perché tanto è multipiattaforma e anche veloce 😃
 
-[Usa Visual Studio Code](https://code.visualstudio.com/) :arrow_right:
+[Usa Visual Studio Code](https://code.visualstudio.com/){: .btn .btn-green }
