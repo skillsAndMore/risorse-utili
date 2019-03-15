@@ -1,3 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
+aux_links:
+    "Vieni a trovarci su SkillsAndMore":
+      - "//skillsandmore.org"
