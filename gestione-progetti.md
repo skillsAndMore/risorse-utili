@@ -25,7 +25,7 @@ Inoltre **puoi utilizzare questo strumento gratuitamente se hai un team inferior
 
 Negli anni mi sono trovato a consigliare e a scrivere diverse volte su quanto ritengo utile questo strumento e oggi che permette di gestire i progetti sia in forma di to-do-list che di una bacheca non posso che consigliarlo ulteriormente dato che è in grado di adattarsi a qualsiasi tipo di utilizzo.
 
-[Organizzati con Asana](https://asana.com/) :arrow_right:
+[Organizzati con Asana](https://asana.com/){: .btn .btn-green }
 
 ## Trello
 ![Trello](images/trello.jpg)
@@ -38,7 +38,7 @@ Dal mio punto di vista questo risulta molto più confusionario dato che abbiamo 
 
 Come dicevo, anche Asana recentemente ha rilasciato una funzionalità molto simile, e mi trovo a consigliarti questo strumento principalmente per poterti dare un’alternativa 😉
 
-[Inizia a usare Trello](https://trello.com/andreabarghigiani/recommend) :arrow_right:
+[Inizia a usare Trello](https://trello.com/andreabarghigiani/recommend){: .btn .btn-green }
 
 ## Clickup
 ![Clickup](images/clickup.jpg)
@@ -53,4 +53,4 @@ Inoltre potrai invitare i tuoi clienti come Guest, aspetto molto utile soprattut
 
 Quindi se hai team di grandi dimensioni e non hai grosse necessità di condivisione file **Clickup è sicuramente un task manager che ti consiglio** soprattutto perché lo puoi **utilizzare ovunque** perché oltre alla web app offre desktop e mobile app per qualsiasi piattaforma :+1:
 
-[Usa Clickup per i tuoi progetti](http://clickup.com/) :arrow_right:
+[Usa Clickup per i tuoi progetti](http://clickup.com/){: .btn .btn-green }

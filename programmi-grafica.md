@@ -19,7 +19,7 @@ Ti confesso che aver trovato un’applicazione del genere **è veramente una gra
 Nata dallo stesso motore che ha portato in vita Atom, Electron, **risulta un’applicazione di grafica vettoriale che non vedevamo da molto tempo** nel mondo Open Source. Se mai ce ne fosse stata una.
 
 Layout, precisione vettoriale, grafiche per la stampa e molti altri elementi possono essere facilmente creati da questo programma. Vuoi vederlo con i tuoi occhi, **hai la possibilità di provarlo direttamente online** prima di installarlo sul tuo computer, tanto è stato creato con HTML, CSS e JavaScript.
-[Scarica Gravit Designer](https://designer.io/) :arrow_right:
+[Scarica Gravit Designer](https://designer.io/){: .btn .btn-green }
 
 ## Affinity Designer
 ![Affinity Designer](images/affinity-designer.jpg)
@@ -32,4 +32,4 @@ In un mondo dove ormai si paga la stessa cifra ogni mese per utilizzare Photosho
 
 Non voglio scrivere troppo, ci sono ancora molti strumenti che voglio presentarti, per questo **ti lascio ai video tutorial** presenti sul loro [canale Vimeo](https://vimeo.com/channels/affinitydesigner).
 
-[Acquista Affinity Designer](https://affinity.serif.com/it/designer/) :arrow_right:
+[Acquista Affinity Designer](https://affinity.serif.com/it/designer/){: .btn .btn-green }

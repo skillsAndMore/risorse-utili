@@ -11,7 +11,7 @@ Ti ho [già presentato nel dettaglio questi strumenti in alcuni nostri articoli]
 
 In questa sezione ti presento quelli specifici per il codice mentre nella prossima sezione parleremo più nello specifico di come organizzare il proprio lavoro, impostare delle deadline e comunicare con l’interno team!
 
-## GitHub (facile siamo qua :joy:)
+## GitHub (facile siamo qua 😂)
 ![GitHub](images/github.jpg)
 
 La piattaforma per la condivisione di codice per eccellenza, al suo interno di trovano interessanti progetti Open Source come il kernel Linux e WordPress.
@@ -20,7 +20,7 @@ Una tra le caratteristiche più belle offerte da questa piattaforma è la possib
 
 Puoi anche creare dei repository privati, previo abbonamento, ma se cerchi di risparmiare il più possibile sono sicuro che il prossimo strumento che ti consiglio farà al caso tuo 😉
 
-[Scopri GitHub](https://github.com/) :arrow_right:
+[Scopri GitHub](https://github.com/){: .btn .btn-green }
 
 ## BitBucket
 ![BitBucket](images/bitbucket.jpg)
@@ -31,7 +31,7 @@ Infatti questa piattaforma ci offre la possibilità di creare un numero illimita
 
 Sembra troppo bello per essere vero? Visita adesso la homepage e registra il tuo account, non è un sogno.
 
-[Registrati su BitBucket](https://bitbucket.org/) :arrow_right:
+[Registrati su BitBucket](https://bitbucket.org/){: .btn .btn-green }
 
 ## CodePen
 ![CodePen](images/codepen.jpg)
@@ -42,4 +42,4 @@ Infatti questo strumento **funziona direttamente all’interno del tuo browser**
 
 Proprio come succede in GitHub, se vuoi realizzare dei *Pen* pubblici (questo è il nome che hanno dato agli esempi che possiamo inserire) puoi crearne quanti desideri, se invece vuoi crearne di privati e **sbloccare decine di altre interessanti funzionalità** puoi sbloccarle con un semplice abbonamento.
 
-[Registrati su BitBucket](https://bitbucket.org/) :arrow_right:
+[Registrati su BitBucket](https://bitbucket.org/){: .btn .btn-green }

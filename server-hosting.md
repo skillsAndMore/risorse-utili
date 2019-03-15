@@ -23,7 +23,7 @@ Il supporto è incredibilmente rapito e pronto a **rispondere a qualsiasi dubbio
 
 Ma non prendere soltanto le mie parole, naviga questo stesso sito e poi prendi la tua decisione 😉
 
-[Hosting WordPress SiteGround](http://skillsandmore.org/siteground-wordpress) :arrow_right:
+[Hosting WordPress SiteGround](http://skillsandmore.org/siteground-wordpress){: .btn .btn-green }
 
 ## Panthen
 ![Pantheon](images/pantheon.jpg)
@@ -38,4 +38,4 @@ Grazie a questa tecnologia non dovrai più diventare pazzo nel mantenere la vers
 
 Insomma, iniziare a sviluppare il sito del tuo prossimo cliente è gratuito con Pantheon. Ci devi ancora pensare?
 
-[Crea il tuo account Dev](http://pantheon.io/) :arrow_right:
+[Crea il tuo account Dev](http://pantheon.io/){: .btn .btn-green }

@@ -22,7 +22,7 @@ Questo perché le funzionalità che mette a disposizione questa estensione sono 
 
 Insomma, già con la sua versione gratuita questa estensione mi permette di risolvere la maggior parte dei problemi che posso incontrare e di usare Gmail, con la versione a pagamento poi ci permette di introdurre anche il nostro team!
 
-[Usa Streak](https://skillsandmore.org/streak) :arrow_right:
+[Usa Streak](https://skillsandmore.org/streak){: .btn .btn-green }
 
 ## Mailspring
 ![Mailspring](images/mailspring.png)
@@ -46,7 +46,7 @@ Parlo di produttività perché Mailspring mi permette di **ottimizzare il tempo 
 
 Ci sono molte altre funzionalità che mi hanno fatto scegliere Mailspring come client email di default ma lascio a te il compito di scoprirle tutte :wink:
 
-[Prova ora Mailspring](https://getmailspring.com/) :arrow_right:
+[Prova ora Mailspring](https://getmailspring.com/){: .btn .btn-green }
 
 ## Invision App
 ![InvisionApp](images/invisionapp.png)
@@ -61,7 +61,7 @@ La cosa ancora più bella è che potrà condividere con noi i propri dubbi **cli
 
 Se pensi che questo possa essere uno strumento utile da usare, io ne sono convinto, **puoi iniziare gratuitamente sviluppando il tuo primo progetto**, se poi ci prendi gusto puoi sempre aggiornare il tuo abbonamento.
 
-[Prova InvisionApp](https://www.invisionapp.com/) :arrow_right:
+[Prova InvisionApp](https://www.invisionapp.com/){: .btn .btn-green }
 
 ## ProjectHuddle
 ![ProjectHuddle](images/projecthuddle.jpg)
@@ -74,4 +74,4 @@ Invece con ProjectHuddle non soltanto saremo in grado di mostrare le nostre bozz
 
 Infatti ritengo questo plugin WordPress un vero game changer, soprattutto se pensiamo che costa soltanto **$89 e che permette di pubblicare un numero illimitato di progetti**. Se la politica dei prezzi di InvisionApp ti è sembrata un po’ stretta, come al sottoscritto in fin dei conti, sono sicuro che troverai in ProjectHuddle **un’alternativa molto più elastica** e in grado di soddisfare le tue esigenze.
 
-[Ottieni ProjectHuddle](http://skillsandmore.org/projecthuddle) :arrow_right:
+[Ottieni ProjectHuddle](http://skillsandmore.org/projecthuddle){: .btn .btn-green }
