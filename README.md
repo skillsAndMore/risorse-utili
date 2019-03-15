@@ -183,6 +183,30 @@ Insomma, già con la sua versione gratuita questa estensione mi permette di riso
 
 [Usa Streak](https://skillsandmore.org/streak) :arrow_right:
 
+### Mailspring
+![Mailspring](images/mailspring.png)
+
+Recentemente ho smesso di usare la versione web di Gmail, non tanto perché non trovavo valore nel suo utilizzo piuttosto ero stanco di dover tenere aperto Chrome soltanto per la gestione della mia mail.
+
+Su Mac esistono moltissimi client email che si possono utilizzare e molti di questi hanno delle interessantissime funzionalità, **però io cercavo delle applicazioni multipiattaforma che potessi presentare a chiunque**.
+
+Ed ecco che ti incontro [Mailspring](https://getmailspring.com/), un client email **Open Source** e multipiattaforma :joy:
+
+Certo, alcune funzionalità sono limitate ed è possibile ottenere un accesso illimitato attivando il loro abbonamento. 
+
+Vogliamo o no supportare un po' questi sviluppatori che realizzano dei prodotti fantastici? In fin dei conti si parla di un abbonamento di $8 al mese, il tuo account Netflix costa molto di più ed è la cosa più lontana dalla produttività.
+
+Parlo di produttività perché Mailspring mi permette di **ottimizzare il tempo che passo a gestire la mia mail** grazie alle sue funzionalità:
+* crea template per le risposte più comuni
+* scopri maggiori informazioni sulla persona che stai contattando
+* crea alert per ricordarti delle tue email di follow-up
+* traccia le aperture delle email
+* traccia quali sono i link che vengono cliccati
+
+Ci sono molte altre funzionalità che mi hanno fatto scegliere Mailspring come client email di default ma lascio a te il compito di scoprirle tutte :wink:
+
+[Prova ora Mailspring](https://getmailspring.com/) :arrow_right:
+
 ### Invision App
 ![InvisionApp](images/invisionapp.png)
 
