@@ -1,6 +1,6 @@
 ---
 title: Gestione progetti
-has_children: false
+parent: Risorse utili
 nav_order: 7
 ---
 
