@@ -11,6 +11,27 @@ Ti ho [già presentato nel dettaglio questi strumenti in alcuni nostri articoli]
 
 In questa sezione ti presento quelli specifici per il codice mentre nella prossima sezione parleremo più nello specifico di come organizzare il proprio lavoro, impostare delle deadline e comunicare con l’interno team!
 
+## GitLab
+Favorito
+{: .label .label-green }
+![GitLab](images/gitlab.jpg)
+
+GitLab è recentemente entrato tra le mie preferenze perché offre (gratuitamente) quello che sarebbe possibile raggiungere soltanto unendo GitHub e BitBucket ma anche molto di più.
+
+Mi sono avvicinato a questo strumento perché da quando ho iniziato a coinvolgere gli Skillati nello sviluppo di piattaforme web avevo bisogno di un posto comune dove poter sincronizzare il nostro codice senza che questo fosse reso pubblico, come su GitHub. Sicuro avrei potuto utilizzare Bitbucket che, come scoprirai più in basso, permette di avere un numero illimitato di repository privati **ma** imposta un limite di utenti e personalmente non mi sento ancora di pagare se posso ottenere qualcosa di simile (se non migliore) gratuitamente.
+
+GitLab è il posto perfetto sia per i tuoi progetti open source che per quelli che sviluppo per i tuoi clienti perché offre moltissimi strumenti e una comoda gestione degli utenti che andrai a coinvolgere. Non mi è raro infatti invitare anche il cliente per permettegli di seguire le issue che andiamo man mano chiudendo e oltre a questo ci sono moltissimi strumenti che ancora non ho avuto il tempo di testare.
+
+Mi stavo dimenticando di dirti che **puoi anche installare GitLab su un tuo server** e questo lo rende il posto ideale per tutti coloro che desiderano avere il codice che sviluppano sulle proprie macchine.
+
+Insomma che dire se non che dovresti provare questa soluzione il prima possibile?
+
+Non sei convinto?
+
+Nessun problema, qua sotto trovi alcune alternative ;)
+
+[Scopri GitLab](https://gitlab.com/){: .btn .btn-green }
+
 ## GitHub (facile siamo qua 😂)
 ![GitHub](images/github.jpg)
 
