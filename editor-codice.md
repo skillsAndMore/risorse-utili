@@ -2,6 +2,7 @@
 title: Editor di codice
 parent: Risorse utili
 nav_order: 2
+has_children: true
 ---
 
 # Editor di codice
