@@ -1,7 +1,6 @@
 ---
 title: Estensioni per Visual Studio Code
 parent: Editor di codice
-nav_order: 2
 ---
 
 # Estensioni per Visual Studio Code
