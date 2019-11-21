@@ -19,6 +19,7 @@ Ti confesso che aver trovato un’applicazione del genere **è veramente una gra
 Nata dallo stesso motore che ha portato in vita Atom, Electron, **risulta un’applicazione di grafica vettoriale che non vedevamo da molto tempo** nel mondo Open Source. Se mai ce ne fosse stata una.
 
 Layout, precisione vettoriale, grafiche per la stampa e molti altri elementi possono essere facilmente creati da questo programma. Vuoi vederlo con i tuoi occhi, **hai la possibilità di provarlo direttamente online** prima di installarlo sul tuo computer, tanto è stato creato con HTML, CSS e JavaScript.
+
 [Scarica Gravit Designer](https://designer.io/){: .btn .btn-green }
 
 ## Affinity Designer
