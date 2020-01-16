@@ -16,6 +16,23 @@ La realizzazione del prodotto è soltanto un piccolo aspetto che riguarda il nos
 
 Per questo motivo ho deciso di creare questa sezione, magari inizialmente avrai qualche dubbio sul loro utilizzo ma ti assicuro che con il tempo imparerai ad amarli.
 
+## Clickup
+Favorito
+{: .label .label-green }
+![Clickup](images/clickup.jpg)
+
+Clickup è recentemente entrato nel mio radar perché mi è stato consigliato da un frequentatore assiduo del [Meetup WordPress](https://www.meetup.com/it-IT/Palermo-WordPress-Meetup/) che organizzo ogni mese.
+
+Abbiamo affrontato l'argomento perché ero un po' stanco di Asana e dei limiti imposti sul numero di utenti e mi è stato presentato perché con questo strumento hai la possibilità di avere gratuitamente un numero **illimitato di utenti** e anche sotto l'aspetto delle funzionalità è in grado di offrire moltissime cose che mi sono utili nel mio lavoro.
+
+Se devo trovare un lato negativo è il fatto che **le opzioni di cloud sono limitate** al pagamento di un abbonamneto, anche se questo aspetto può essere tranquillamente evitato se si caricano i file su [Dropbox](https://skillsandmore.org/dropbox) o [Google Drive](https://www.google.com/drive/) all'interno dei commenti di un task.
+
+Inoltre potrai invitare i tuoi clienti come Guest, aspetto molto utile soprattutto per i **piani a pagamento** perché questi non vengono contati come utenti attivi del tuo team e di conseguenza non dovrai pagare per il loro account.
+
+Quindi se hai team di grandi dimensioni e non hai grosse necessità di condivisione file **Clickup è sicuramente un task manager che ti consiglio** soprattutto perché lo puoi **utilizzare ovunque** perché oltre alla web app offre desktop e mobile app per qualsiasi piattaforma :+1:
+
+[Usa Clickup per i tuoi progetti](http://clickup.com/){: .btn .btn-green }
+
 ## Asana
 ![Asana](images/asana.gif)
 
@@ -39,18 +56,3 @@ Dal mio punto di vista questo risulta molto più confusionario dato che abbiamo 
 Come dicevo, anche Asana recentemente ha rilasciato una funzionalità molto simile, e mi trovo a consigliarti questo strumento principalmente per poterti dare un’alternativa 😉
 
 [Inizia a usare Trello](https://trello.com/andreabarghigiani/recommend){: .btn .btn-green }
-
-## Clickup
-![Clickup](images/clickup.jpg)
-
-Clickup è recentemente entrato nel mio radar perché mi è stato consigliato da un frequentatore assiduo del [Meetup WordPress](https://www.meetup.com/it-IT/Palermo-WordPress-Meetup/) che organizzo ogni mese.
-
-Abbiamo affrontato l'argomento perché ero un po' stanco di Asana e dei limiti imposti sul numero di utenti e mi è stato presentato perché con questo strumento hai la possibilità di avere gratuitamente un numero **illimitato di utenti** e anche sotto l'aspetto delle funzionalità è in grado di offrire moltissime cose che mi sono utili nel mio lavoro.
-
-Se devo trovare un lato negativo è il fatto che **le opzioni di cloud sono limitate** al pagamento di un abbonamneto, anche se questo aspetto può essere tranquillamente evitato se si caricano i file su [Dropbox](https://skillsandmore.org/dropbox) o [Google Drive](https://www.google.com/drive/) all'interno dei commenti di un task.
-
-Inoltre potrai invitare i tuoi clienti come Guest, aspetto molto utile soprattutto per i **piani a pagamento** perché questi non vengono contati come utenti attivi del tuo team e di conseguenza non dovrai pagare per il loro account.
-
-Quindi se hai team di grandi dimensioni e non hai grosse necessità di condivisione file **Clickup è sicuramente un task manager che ti consiglio** soprattutto perché lo puoi **utilizzare ovunque** perché oltre alla web app offre desktop e mobile app per qualsiasi piattaforma :+1:
-
-[Usa Clickup per i tuoi progetti](http://clickup.com/){: .btn .btn-green }
